@@ -7,6 +7,10 @@
 ```{include} ../../README.md
 :relative-images:
 ```
+
+For further info, check out {doc}`usage`.
+Read installation instructions in {ref}`Installation`.
+
 ```{warning}
 This library is under heavy developement.
 ```
@@ -14,6 +18,8 @@ This library is under heavy developement.
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
 
